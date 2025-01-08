@@ -22,11 +22,14 @@
     Docker compose ile başlatın
     docker-compose up -d
 
+
 5. Uygulama başlatıldığında, her saatte bir hız testi yapılacaktır
+![g1](https://github.com/user-attachments/assets/52325f39-9e7c-4bf2-99d6-23df1a33ac4e)
 
 6. Hız testi sonuçları speedtest_results.json dosyasına kaydedilecektir
 
 7. Eğer hız testi sonucu belirli bir eşiği altına düşerse, e-posta bildirimi gönderilecektir.
+![g2](https://github.com/user-attachments/assets/c4c54be9-6d8f-4b0c-ab58-c81dbbe37949)
 
 ## Güvenlik Notları
 
